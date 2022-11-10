@@ -5,7 +5,7 @@ I am currently working on Named Entity Extraction in low-resource domain specifi
 
 🎯 My Areas of Research
 
-Natural Language Processing
+Natural Language Processing \\
 Scientific Information Retrival
 Deep Learning
 Domain Specific Information Extraction
