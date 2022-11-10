@@ -18,21 +18,8 @@ Knowledge Bases
 Graph-Ranking Algorithms  
 Keyphrase Extraction  
 Artificial Intelligence  
-Machine Learning
-
-**Technical Skills**  
-
-Pytorch  
-Huggingface  
-Keras  
-scikit-learn  
-numpy  
-pandas  
-git  
-jupyter  
-matplotlib  
-seaborn  
-Python  
-LateX  
+Machine Learning  
 
   
+📫 \href{https://www.linkedin.com/in/swayatta-daw-17815aa0/}{Linkedin}
+📧 swayatta@gmail.com, swayatta.daw@research.iiit.ac.in
