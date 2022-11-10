@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello there 👋, I am Swayatta. Welcome to my github 🌠
 
-<!--
-**Swayatta/Swayatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💁 About me I am an MS by Research grad student, and applied NLP researcher at Data Science and Analytics Centre, IIIT Hyderabad 🎓
+I am currently working on Named Entity Extraction in low-resource domain specific settings under Professor Vikram Pudi. I have also worked on Multilingual Named Entity Recognition for Complex and Ambigous Settings for Low-Resource languages, and Knowledge Graph Alignments for Indic Languages using WikiData (work done in collaboration with LTRC centre with Prof Vasudeva Varma.
 
-Here are some ideas to get you started:
+🎯 My Areas of Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Natural Language Processing
+Scientific Information Retrival
+Deep Learning
+Domain Specific Information Extraction
+Multilingual NLP
+Knowledge Graphs
+Knowledge Bases
+Graph-Ranking Algorithms
+Keyphrase Extraction
+Artificial Intelligence
+Machine Learning
