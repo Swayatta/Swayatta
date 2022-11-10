@@ -21,5 +21,5 @@ Artificial Intelligence
 Machine Learning  
 
   
-📫 \href{https://www.linkedin.com/in/swayatta-daw-17815aa0/}{Linkedin}
+📫 [Linkedin](https://www.linkedin.com/in/swayatta-daw-17815aa0/)  
 📧 swayatta@gmail.com, swayatta.daw@research.iiit.ac.in
