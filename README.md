@@ -22,17 +22,17 @@ Machine Learning
 
 **Technical Skills   **
 
-Pytorch
-Huggingface
-Keras
-scikit-learn
-numpy
-pandas
-git
-jupyter
-matplotlib
-seaborn
-Python
-LateX
+Pytorch  
+Huggingface  
+Keras  
+scikit-learn  
+numpy  
+pandas  
+git  
+jupyter  
+matplotlib  
+seaborn  
+Python  
+LateX  
 
   
