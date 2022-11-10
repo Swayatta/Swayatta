@@ -1,6 +1,6 @@
 Hello there 👋, I am Swayatta. Welcome to my github 🌠
 
-About me
+**About Me**
 
 I am an MS by Research grad student, and applied NLP researcher at Data Science and Analytics Centre, IIIT Hyderabad 🎓  
 I am currently working on Named Entity Extraction in low-resource domain specific settings under Professor Vikram Pudi.  
